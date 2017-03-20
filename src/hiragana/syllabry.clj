@@ -21,7 +21,9 @@
                  :diacritics { 
                                :ga "\u304C" :gi "\u304E" :gu "\u3050" :ge "\u3052" :go "\u3054"
                                :za "\u3056" :zi "\u3058" :zu "\u305A" :ze "\u305C" :zo "\u305E"
-                               :da "\u3060" :di "\u3062" :du "\u3065" :de "\u3067" :do "\u3069" 
+                               :da "\u3060" :di "\u3062" :du "\u3065" :de "\u3067" :do "\u3069"
+                               :ba "\u3070" :bi "\u3073" :bu "\u3076" :be "\u3079" :bo "\u307C"
+                               :pa "\u3071" :pi "\u3074" :pu "\u3077" :pe "\u307A" :po "\u307D"
                              }
                  }
     :digraphs {}
