@@ -3,6 +3,6 @@
   (:gen-class))
 
 (defn -main
-  "Will transliterate between rōmaji and japanese kana."
+  "will transliterate between rōmaji and japanese kana."
   [& args]
   (println syllabograms))
